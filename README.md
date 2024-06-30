@@ -43,4 +43,4 @@ Copy code
 git clone [https://github.com/YourUsername/Cipherkey.git](https://github.com/satiyaganes06/cipher-key.git)
 
 📧 Contact
-For any questions or feedback, please contact us at [satiyaganes.sg@gmail.com].
+For any questions or feedback, please contact us at satiyaganes.sg@gmail.com.
