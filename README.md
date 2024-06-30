@@ -61,7 +61,7 @@
   <h3>Installation</h3>
   <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/YourUsername/Cipherkey.git</code></pre>
+    <pre><code>git clone https://github.com/satiyaganes06/cipher-key</code></pre>
     <li>Navigate to the project directory:</li>
     <pre><code>cd Cipherkey</code></pre>
     <li>Install dependencies and set up the environment as per the README instructions.</li>
