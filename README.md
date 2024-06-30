@@ -42,10 +42,8 @@
   <h2>Repository Structure</h2>
   <ul>
     <li><strong>Frontend Code:</strong> Contains the mobile application code.</li>
-    <li><strong>Backend Code:</strong> Contains the backend API code.</li>
     <li><strong>Architecture Diagram:</strong> Detailed architecture diagram and explanation video.</li>
     <li><strong>APK:</strong> APK file of the mobile application.</li>
-    <li><strong>Other:</strong> Additional project details and files.</li>
   </ul>
 
   <h2>Getting Started</h2>
