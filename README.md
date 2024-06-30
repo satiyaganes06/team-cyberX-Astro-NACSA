@@ -10,41 +10,40 @@ Master Password: LogaVance@28
 🔐 Secure Password Management
 
 Save, view, and delete passwords with biometric authentication.
-Categorize passwords and mark favorites for quick access.
+Categorize passwords and mark favorites for quick access. <br />
 🔑 Password Generator
 
-Create strong, customizable passwords.
-Estimate the resistance of passwords against brute-force attacks.
+Create strong, customizable passwords. <br />
+Estimate the resistance of passwords against brute-force attacks. <br />
 🌐 URL Scanner
 
-Verify website safety using multiple antivirus services.
-Participate in community trust scoring and request rescans.
-🤖 AI Chatbot
+Verify website safety using multiple antivirus services. <br />
+Participate in community trust scoring and request rescans. <br /> 
+🤖 AI Chatbot <br /> <br />
 
-Get password suggestions based on specific keywords.
-Receive cybersecurity tips and advice.
-🛡 Enhanced Security
+Get password suggestions based on specific keywords. <br />
+Receive cybersecurity tips and advice. <br />
+🛡 Enhanced Security <br /> <br />
 
-Robust encryption and decryption services.
+Robust encryption and decryption services. 
 Biometric and master password authentication.
 Regular security audits and activity logs.
 🎥 Demo Video
 Watch our demo video to see Cipherkey in action: [Demo Video](https://youtu.be/zwPOR007MB8)
 
-📁 Repository Structure
-Frontend Code: Contains the mobile application code.
-Backend Code: Contains the backend API code.
-Architecture Diagram: Detailed architecture diagram and explanation video.
-APK: APK file of the mobile application.
-Other: Additional project details and files.
-🚀 Getting Started
-Follow these instructions to get a copy of the project up and running on your local machine.
+📁 Repository Structure <br />
+- Frontend Code: Contains the mobile application code. <br />
+- Backend Code: Contains the backend API code. <br />
+- Architecture Diagram: Detailed architecture diagram and explanation video. <br />
+- APK: APK file of the mobile application.
+- Other: Additional project details and files. <br /> <br />
 
+🚀 Getting Started <br />
+Follow these instructions to get a copy of the project up and running on your local machine.
 Installation
 Clone the repository:
-bash
-Copy code
+Copy code <br />
 git clone [https://github.com/satiyaganes06/cipher-key.git](https://github.com/satiyaganes06/cipher-key.git)
 
-📧 Contact
+📧 Contact <br />
 For any questions or feedback, please contact us at satiyaganes.sg@gmail.com , logathepan.m@gmail.com , yattish47@gmail.com
