@@ -19,11 +19,11 @@ Estimate the resistance of passwords against brute-force attacks. <br />
 
 Verify website safety using multiple antivirus services. <br />
 Participate in community trust scoring and request rescans. <br /> 
-🤖 AI Chatbot <br /> <br />
+🤖 AI Chatbot 
 
 Get password suggestions based on specific keywords. <br />
 Receive cybersecurity tips and advice. <br />
-🛡 Enhanced Security <br /> <br />
+🛡 Enhanced Security  
 
 Robust encryption and decryption services. 
 Biometric and master password authentication.
@@ -36,14 +36,12 @@ Watch our demo video to see Cipherkey in action: [Demo Video](https://youtu.be/z
 - Backend Code: Contains the backend API code. <br />
 - Architecture Diagram: Detailed architecture diagram and explanation video. <br />
 - APK: APK file of the mobile application.
-- Other: Additional project details and files. <br /> <br />
+- Other: Additional project details and files. 
 
 🚀 Getting Started <br />
-Follow these instructions to get a copy of the project up and running on your local machine.
-Installation
-Clone the repository:
-Copy code <br />
-git clone [https://github.com/satiyaganes06/cipher-key.git](https://github.com/satiyaganes06/cipher-key.git)
+Follow these instructions to get a copy of the project up and running on your local machine. <br />
+Installation <br />
+Clone the repository: git clone [https://github.com/satiyaganes06/cipher-key.git](https://github.com/satiyaganes06/cipher-key.git)
 
 📧 Contact <br />
 For any questions or feedback, please contact us at satiyaganes.sg@gmail.com , logathepan.m@gmail.com , yattish47@gmail.com
