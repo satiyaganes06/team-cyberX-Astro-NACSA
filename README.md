@@ -8,25 +8,25 @@
         <li>Save, view, and delete passwords with biometric authentication.</li>
         <li>Categorize passwords and mark favorites for quick access.</li>
       </ul>
-    </li>
+    </li></br>
     <li>🔑 <strong>Password Generator</strong>
       <ul>
         <li>Create strong, customizable passwords.</li>
         <li>Estimate password resistance against brute-force attacks.</li>
       </ul>
-    </li>
+    </li></br>
     <li>🌐 <strong>URL Scanner</strong>
       <ul>
         <li>Verify website safety using multiple antivirus services.</li>
         <li>Participate in community trust scoring and request rescans.</li>
       </ul>
-    </li>
+    </li></br>
     <li>🤖 <strong>AI Chatbot</strong>
       <ul>
         <li>Get password suggestions based on specific keywords.</li>
         <li>Receive cybersecurity tips and advice.</li>
       </ul>
-    </li>
+    </li></br>
     <li>🛡 <strong>Enhanced Security</strong>
       <ul>
         <li>Robust encryption and decryption services.</li>
@@ -37,7 +37,7 @@
   </ul>
 
   <h2>Demo Video</h2>
-  <p>Watch our demo video to see Cipherkey in action: <a href="link-to-your-demo-video">Demo Video</a></p>
+  <p>Watch our demo video to see Cipherkey in action: <a href="https://youtu.be/zwPOR007MB8">Demo Video</a></p>
 
   <h2>Repository Structure</h2>
   <ul>
