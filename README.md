@@ -6,7 +6,7 @@ Test Credentials: <br />
 Email: logathepan.m@gmail.com <br />
 Master Password: LogaVance@28
 
-🌟 Features
+🌟 Features <br />
 🔐 Secure Password Management
 
 Save, view, and delete passwords with biometric authentication.
