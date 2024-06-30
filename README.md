@@ -10,7 +10,7 @@ Categorize passwords and mark favorites for quick access.
 🔑 Password Generator
 
 Create strong, customizable passwords.
-Estimate the resistance of passwords against brute-force attacks.
+Estimate the resistance of passwords against brute-force attacks.\n
 🌐 URL Scanner
 
 Verify website safety using multiple antivirus services.
