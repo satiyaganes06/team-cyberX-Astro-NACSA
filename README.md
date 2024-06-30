@@ -2,6 +2,10 @@ Cipherkey - Astro-Nacsa Coding Challenge
 
 Cipherkey is a cutting-edge password management application developed by CyberX from Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA). Our project emphasizes robust security features to protect user information while offering a seamless and user-friendly experience.
 
+Test Credentials:
+Email: logathepan.m@gmail.com
+Master Password: LogaVance@28
+
 🌟 Features
 🔐 Secure Password Management
 
