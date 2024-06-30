@@ -33,10 +33,8 @@ Watch our demo video to see Cipherkey in action: [Demo Video](https://youtu.be/z
 
 📁 Repository Structure <br />
 - Frontend Code: Contains the mobile application code. <br />
-- Backend Code: Contains the backend API code. <br />
 - Architecture Diagram: Detailed architecture diagram and explanation video. <br />
 - APK: APK file of the mobile application.
-- Other: Additional project details and files. 
 
 🚀 Getting Started <br />
 Follow these instructions to get a copy of the project up and running on your local machine. <br />
