@@ -1,0 +1,131 @@
+Introduction:  
+
+A very good morning to the esteemed judges, we are CyberX, the team behind CipherKey. CipherKey is a secure and user-friendly password manager that helps you store and manage your passwords safely with advanced encryption. With features like real-time threat checks, an AI chatbot for cybersecurity tips, and a robust password generator, CipherKey ensures your digital life remains secure. Without wasting any time, let’s dive into the video demonstration of CipherKey. 28 sec 
+
+ 
+During video: Screen is black due to the biometrics. 
+
+ 
+1. What were the biggest technical challenges you faced while developing your solution, and how did you manage to overcome them? 
+
+"The biggest technical challenge we faced was determining where to store the passwords securely. Many existing systems use cloud-based databases, which pose a significant risk. For instance, if the Astro database is breached, only the Astro password is compromised. However, if a password manager's database is breached, all stored passwords could be exposed. To address this, we opted for a local database solution, using Hive for local storage. This approach minimizes the risk of a large-scale data breach and ensures users' passwords are securely stored on their own devices."  
+
+  
+
+2. If you had more time and resources, what new features or improvements would you focus on for your application? 
+
+"With more time and resources, we would focus on implementing advanced security features like multi-factor authentication and real-time threat detection, despite the high costs associated with vendors. We would also enhance the user interface for better usability, integrate cross-platform support, add AI chatbot capabilities for personalized security advice. 
+
+To balance security and convenience, we plan to use a semi-cloud-based storage system, where general user information is stored in the cloud and passwords are stored using blockchain technology. This hybrid approach ensures that passwords remain secure and decentralized, while other data benefits from the scalability and accessibility of cloud storage."   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. How would you ensure it can handle future needs? 
+
+"To ensure our application can handle future needs, we designed it using the Model-View-ViewModel (MVVM) architecture as introduced by Ken Cooper and Ted Peters, which enhances scalability and maintainability by separating concerns. We plan regular updates and security patches to keep up with evolving cybersecurity threats. The future enhancements will be carefully integrated to maintain performance and security of the app. Additionally, we use a microservices architecture for easier updates and regular security audits. Continuous user feedback will guide iterative improvements, ensuring the application remains relevant and efficient." 38 sec 
+
+ 
+
+Features: 
+
+1. Authentication and Authorization   
+
+2. Store account and password 
+
+3. Real-time threat check 
+
+4. Local Security 
+
+5. Password generator 
+
+6. Ai-chatbot 
+
+7. Backup and recovery 
+
+8. Extension 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. How did your team work together on this project? What roles did each of you play? 
+
+Script: 
+
+  
+
+"Our team worked collaboratively, leveraging each member's strengths to develop CipherKey. Here’s a detailed breakdown of our roles: 
+
+  
+
+Satya: As a Software Engineering student, took on the dual responsibility of backend and frontend development. His role involved designing and implementing the core functionality of the application and ensuring seamless integration between the various components. 
+
+  
+
+Yattish: Yattish myself, also as software engineering student, assisted Sathya in the front-end development of the application. I also created and trained the Gemini AI model that was integrated into the application as the chatbot. 
+
+  
+
+Loga: As a Cybersecurity student. Conducted extensive research on cybersecurity-related APIs to integrate into our app. Loga also performed penetration testing to identify and address potential vulnerabilities, ensuring our app met high-security standards.  
+
+  
+
+To ensure effective collaboration, we held regular meetings to discuss progress, challenges, and solutions. Our combined efforts and clear communication were key to the successful development of CipherKey." 57 sec 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. How did you go about making your application run smoothly? 
+
+Script: 
+
+"We prioritized performance optimization from the start. This involved writing efficient code for example methods with less line of codes that achieve its objective, minimizing memory usage, and ensuring fast data retrieval with Hive for local storage. We implemented asynchronous operations to prevent the app from freezing during heavy tasks. Short Testing was conducted throughout the development to identify and fix any bottlenecks or bugs. We also gathered feedback from a small group of testers (our faculty students) to ensure the app runs smoothly on different devices and under various conditions. Continuous monitoring and regular updates will help maintain performance." 
+
+ 
+
+34 sec 
+
+  
+
+6. How would you describe the cybersecurity landscape in Malaysia? 
+
+Answer: 
+
+The cybersecurity landscape in Malaysia is evolving rapidly, with increasing awareness and efforts to combat cyber threats. The government has implemented several initiatives and regulations to enhance cybersecurity, such as the National Cyber Security Policy (NCSP) and the establishment of the National Cyber Security Agency (NACSA). Despite these efforts, challenges remain, including a shortage of skilled cybersecurity professionals and the need for greater public awareness of cybersecurity practices. 
+
+An essential aspect often overlooked is what my lecturer refers to as the "human layer" in the network stack. No matter how strong our security measures are across the traditional seven layers, the human element can still be a vulnerability. Human errors, such as falling for phishing scams or using weak passwords, continue to be a significant concern. Therefore, while technological advancements are critical, educating users and fostering a culture of cybersecurity awareness are equally important to mitigate risks. As cyber threats become more sophisticated, it is crucial for both public and private sectors to collaborate and invest in advanced cybersecurity measures to protect critical infrastructure and personal data. 
+
+1min 5 sec 
